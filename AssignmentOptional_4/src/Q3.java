@@ -19,6 +19,7 @@ public class Q3 {
 		int b = scan.nextInt();
 		
 		System.out.println(a*Power(a,b-1));
+		System.out.println("The end of work!");
 		
 		scan.close();
 	}
